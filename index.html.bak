@@ -101,6 +101,10 @@
 							</div>
 							<div class="d-flex justify-content-start">
 								<img src="images/tick.png" alt="tick" class="mr-3 tick-icon"  >
+								<p class="mb-0">Randomisation And Huminisation</p>
+							</div>
+							<div class="d-flex justify-content-start">
+								<img src="images/tick.png" alt="tick" class="mr-3 tick-icon"  >
 								<p class="mb-0">Undetected Since Rlease</p>
 							</div>
 							<div class="d-flex justify-content-start">
