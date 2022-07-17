@@ -18764,7 +18764,7 @@ section {
 }
 
 .pricing-box .text-amount {
-  color: #ff0000;
+  color: #a94577;
 }
 
 .pricing-box img {
@@ -18863,7 +18863,7 @@ section {
 }
 
 .toggle-switch input:checked + .toggle-slider {
-  background-color: #ff0000;
+  background-color: #a94577;
 }
 
 .toggle-switch input:checked + .toggle-slider:before {
@@ -18930,7 +18930,7 @@ section {
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-  background: #ff0000;
+  background: #a94577;
 }
 
 .owl-theme.owl-carousel-testimonial .owl-dots {
