@@ -18326,7 +18326,7 @@ h6, .h6 {
 
 .footer {
   color: #e5e5e5;
-  background: #ff0000 url(../images/footer_bg.svg);
+  background: #a94577 url(../images/footer_bg.svg);
   background-size: cover;
   background-position: left bottom;
 }
@@ -18394,7 +18394,7 @@ h6, .h6 {
 .navbar {
   width: 100%;
   padding: 1.875rem 1rem;
-  background: #ff0000;
+  background: #a94577;
 }
 
 @media (max-width: 991px) {
@@ -18562,7 +18562,7 @@ h6, .h6 {
   padding: .875rem .1rem;
   position: static;
   z-index: auto;
-  background: #ff0000;
+  background: #a94577;
 }
 
 @media (max-width: 991px) {
